@@ -1,5 +1,1 @@
-Updating with Tortoise - changed on GitHub<<<<<<< .mine
-Updating with GitBash - changed on my PC
-=======
-Updating with Tortoise - changed on GitHub
->>>>>>> .theirs
+Updating with Tortoise - final version
